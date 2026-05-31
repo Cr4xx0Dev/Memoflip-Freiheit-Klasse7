@@ -9,7 +9,7 @@
 > **Hinweis zur Vollständigkeit:** Dieses Projekt befindet sich in der stetigen Optimierung. Es können sich noch Fehler in den Texten oder den KI-generierten Illustrationen befinden. Diese werden in kommenden Updates regelmäßig korrigiert.Solltest du Fehler finden, freue ich mich, wenn du mir eine Nachricht auf Telegram (@ToxicLemonV1) schreibst, damit ich sie ausbessern kann.
 >
 > 
-Dieses Repository enthält die vollständige Ausarbeitung, die Texte und die strukturierten Quellen für mein Ethik-Projekt in der 7. Klasse. Das Projekt wurde als interaktives Memoflip umgesetzt.
+Dieses Repository enthält die vollständige Ausarbeitung, die Texte und die strukturierten Quellen für mein Ethik-Projekt in der 7. Klasse. Das Projekt wurde als Memoflip umgesetzt.
 
 ---
 
