@@ -16,12 +16,12 @@ Hier findest du die digitalen Assets, die zur Gestaltung des Memoflips verwendet
 ### Comic-Illustrationen
 *Diese wurden mithilfe von KI erstellt und dienen der visuellen Unterstützung der jeweiligen Fragestellungen.*
 
-![Comics für das Memoflip](assets/comics_overview.png)
+![Comics für das Memoflip](assets/1780245457067~2.png)
 
 ### Zitat-Sammlung
 *Wichtige Aussagen und philosophische Ansätze, die im Projekt verarbeitet wurden.*
 
-![Zitate aus dem Projekt](assets/zitate_overview.png)
+![Zitate aus dem Projekt](assets/1780245457067~2.png)
 
 ---
 
