@@ -27,6 +27,7 @@ Hier findest du die digitalen Assets, die zur Gestaltung des Memoflips verwendet
 
 ![Zitate aus dem Projekt](assets/1780245457067~2.png)
 
+### PDF-Download
 > **Download:** Die vollständige Ausarbeitung als PDF sowie alle oben genannten Materialien findest du im Bereich [Releases](releases) in diesem Repository.
 > 
 
