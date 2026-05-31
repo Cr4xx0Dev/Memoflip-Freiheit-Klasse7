@@ -5,6 +5,10 @@
 [![Lizenz: CC BY-NC-ND 4.0](https://img.shields.io/badge/Lizenz-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
 [![Telegram: @ToxicLemonV1](https://img.shields.io/badge/Kontakt-Telegram-blue?style=flat-square)](https://t.me/ToxicLemonV1)
 
+> [!IMPORTANT]
+> **Hinweis zur Vollständigkeit:** Dieses Projekt befindet sich in der stetigen Optimierung. Es können sich noch Fehler in den Texten oder den KI-generierten Illustrationen befinden. Diese werden in kommenden Updates regelmäßig korrigiert.
+>
+> 
 Dieses Repository enthält die vollständige Ausarbeitung, die Texte und die strukturierten Quellen für mein Ethik-Projekt in der 7. Klasse. Das Projekt wurde als interaktives Memoflip umgesetzt.
 
 ---
