@@ -10,8 +10,8 @@
 >
 > Lizenz
 
-* **Text und Ausarbeitung:** Lizenziert unter [CC BY-NC-ND 4.0](https://creativecommons.org) (Teilen erlaubt, keine Bearbeitung, keine kommerzielle Nutzung).
-* **Bilder und Grafiken (im Ordner /bilder):** Lizenziert unter [CC BY 4.0](https://creativecommons.org). Diese dürfen von allen Schülern frei verwendet, verändert und in eigene Projekte eingefügt werden, solange mein Name genannt wird.
+ * **Text und Ausarbeitung:** Lizenziert unter [CC BY-NC-ND 4.0](https://creativecommons.org) (Teilen erlaubt, keine Bearbeitung, keine kommerzielle Nutzung).
+ * **Bilder und Grafiken (in den Releases):** Lizenziert unter [CC BY 4.0](https://creativecommons.org). Diese dürfen von allen Schülern frei verwendet, verändert     und in eigene Projekte eingefügt werden, solange mein Name genannt wird.
 
 >
 > 
